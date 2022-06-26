@@ -1,0 +1,40 @@
+body {
+	background-color: black;
+	background-size: cover;
+	color: white;
+	font-family: monospace, serif, Arial;
+	background-size: 50;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 15px;
+	
+}
+a {
+		color: white;
+}h1{
+		padding-left: 50px;
+    	padding-top: 10px;
+    	padding: 10PX;
+		background-color: purple;
+		text-align: center
+}h2{
+	padding-left: 50px;
+    	padding-top: 10px;
+    	padding: 10PX;
+		background-color: red;
+		
+
+}h3{
+	color: blue;
+}footer{
+text-align: center;
+background-color: black;
+font-style: italic;
+font-weight: bold;
+font-size: 15px;
+}img{
+	display: block;
+}figure{
+		float: left;
+		
+}

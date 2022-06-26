@@ -1,0 +1,50 @@
+body{
+    background-size: 1500px 1000px;
+    text-align: center;
+    font-family: Trebuchet MS, sans-serif
+    background-color: 
+    color: ;
+    background: #FFFAFA;
+    border-style: solid;
+
+}
+h1{
+   color:#191970;  
+  font-size: 50px;
+   font-family: Trebuchet MS, sans-serif
+
+}
+h2{
+   color:#483D8B; 
+   font-size: 37px;
+ font-family: Trebuchet MS, sans-serif
+
+}
+
+img{
+   color: #696969;
+}
+ul{
+  text-align: left;
+}
+ol{
+  text-align: center;
+  list-style: none;
+
+}
+p{
+  font-family: Verdana; 
+}
+em{
+   color:#6495ED;
+   font-size: 25px;  
+}
+footer{
+  background-color: #4169E1;
+}
+u{
+   color: #FF0000;
+}
+a{
+  color:#FF4500;
+}

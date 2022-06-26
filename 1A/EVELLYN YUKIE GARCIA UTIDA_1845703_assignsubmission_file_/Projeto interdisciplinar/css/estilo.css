@@ -1,0 +1,21 @@
+body{
+	 background:rgb(176,196,222); #B0C4DE	
+	font-family: serif;
+	color:white;
+	margin: 20px;
+}
+h1{
+	color: rgb(0 0 128);	#000080 
+}
+h2{
+	color: rgb(0 0 128);	#000080
+}
+figcaption{
+	color:black;
+}
+footer{
+	text-align: center;
+	padding: 25px;
+	background-color: rgb(0 0 128);	#000080
+}
+	

@@ -1,0 +1,25 @@
+body{background-image:url(../img/fundo23.png);
+	margin:100px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+}
+body{
+ color: rgb(25,25,112);
+}
+div{
+	float: left;
+}
+footer{
+	padding: 10px;
+	background-color: rgb(153, 102, 204);
+	text-align: center;
+}
+
+h1{
+	background-color: rgb(230, 230, 250);
+
+}
+h2{
+	color: darkslateblue;
+}

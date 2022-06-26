@@ -1,0 +1,68 @@
+
+body{
+	background-image:url(../img/p.webp);
+	margin-left: 35px;
+	margin-top: 35px;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+h1{
+	background-color: rgba(102, 15, 8, 0.429);
+}
+h2{
+	color: rgb(222, 222, 222);
+	text-align: center;
+	background-color: rgb(12, 5, 31);
+}
+
+
+p{
+	color: rgb(216, 216, 216);
+	text-align: justify;
+	text-align: center;
+	background-color: rgba(24, 9, 65, 0.699);
+}	
+
+
+a{
+	text-decoration: none;
+	color: rgb(255, 255, 255);
+}
+
+footer{
+	padding: 15px;
+	color: #ffffff;
+	background-color: rgba(24, 9, 65, 0.699);
+	text-align: center;
+}
+h1{
+	color: rgb(255, 255, 255);
+}
+h3{
+	color: rgb(255, 255, 255);
+	background-color: rgb(48, 6, 25);
+}
+h4{
+	color: rgb(255, 255, 255);
+	background-color: rgba(107, 6, 51, 0.543);
+}
+a{
+	color: rgb(255, 255, 0);
+}
+#link{
+	color: rgb(255, 255, 0);
+}
+#lin{
+	color: rgb(255, 255, 0);
+}
+#li{
+	color: rgb(255, 255, 0);
+}
+#lo{
+	color: rgb(255, 255, 0);
+}
+#fim{
+	color: #ffffff;
+}
+

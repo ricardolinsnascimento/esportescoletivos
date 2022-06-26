@@ -1,0 +1,32 @@
+body{
+	background-image: url(../img/amarelo.png);
+    text-align:center;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+h1{
+	color: rgb(248, 252, 3);
+	background-color: rgb(10, 10, 10);
+
+}
+p{
+	color: black;
+}
+h2{
+color: rgb(248, 252, 3);
+background-color: rgb(10, 10, 10);
+}
+p{
+	color:rgb(0, 0, 0);
+}
+ul{
+	color: rgb(255, 255, 255);
+	border-color: rgb(0,0,0);
+	border-style: solid;
+	border-width: 5px;
+}
+a{
+	color:rgb(3, 36, 145);
+}
+footer{
+	background-color: rgb(217, 7, 7) ;
+}

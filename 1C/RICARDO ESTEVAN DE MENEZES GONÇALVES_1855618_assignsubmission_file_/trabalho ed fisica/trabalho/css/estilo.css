@@ -1,0 +1,40 @@
+body{
+	
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-left: 20px;
+	margin-top: 30px;
+	margin-right: 50px
+
+
+}
+
+li{
+	margin-right: 50px;
+	margin-left: 20px;
+
+}
+
+h1{
+	background-color:rgb(255,235,205);
+}
+
+head{
+	background-color:rgb(255,235,205);	
+}
+ul{
+	background-color:rgb(255,235,205);
+}
+h2{
+	background-color: rgb(255,235,205);
+}
+footer{
+	background-color: rgb(255,235,205);
+	padding-top: 10px;
+	padding-bottom: 13px;
+}
+
+#praticadevolei{
+ height: 300px; 
+ width: 500px; 
+}

@@ -1,0 +1,62 @@
+
+.topo{
+	margin-top:  20px;
+	padding-bottom: 20px;
+	background-color: rgb(36,100,50);
+
+}
+
+.lista{
+	margin:  20px 20px 20px 100px;
+
+}
+
+a{
+	color:  rgb(36,100,50);
+}
+
+.botoes{
+
+	margin-left: 100px;
+	
+}
+
+.imagens{
+	padding:  5px;
+	margin-bottom:  20px;
+	background-color: white;
+}
+
+#textRodape{
+	padding-top:  10px;
+}
+
+.titulo {
+
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+.rodape{
+	text-align: center;
+}
+
+#T1A{
+	display: none;
+}
+
+#T1B{
+	display: none;
+}
+
+#T1C{
+	display: none;
+}
+
+#T1D{
+	display: none;
+}
+
+#TTE{
+	display: none;
+}

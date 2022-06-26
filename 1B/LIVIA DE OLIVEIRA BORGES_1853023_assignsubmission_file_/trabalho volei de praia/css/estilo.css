@@ -1,0 +1,45 @@
+html{
+	border: solid;
+}
+body{
+	background-image: url(../img/imagen5.jpg);
+	text-align: center;
+	background-size: cover ;
+	background-repeat: no-repeat;
+}
+a{
+	color:rgb(0,0,0);
+	font-family: mosk,sans-serif;
+}
+h2{
+	font-family:Georgia,serif;
+	color: rgb(0,0,0);
+}
+.forma{
+	font-family:Georgia,serif;
+	color: rgb(0,0,0);
+}
+.letra{
+	font-family:Georgia,serif;
+	color: rgb(0,0,0);
+	font-size: 18px;
+}
+.letra1{
+	font-family:Georgia,serif;
+	color: rgb(0,0,0);
+	font-size: 16px;
+}
+#lista{
+	font-family:Georgia,serif;
+	color: rgb(0,0,0);
+	font-size: 16px;
+}
+footer{
+	font-family: mosk,sans-serif;
+	color: rgb(0,0,0);
+	background-color: rgb(225,225,225);
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 10px;
+	margin: 20px;
+}

@@ -1,0 +1,17 @@
+body{
+	margin-left: 25px;
+	margin-right: 550px;
+	font-family: sans-serif;
+	background-color: #DCDCDC;
+	color: #2F4F4F;
+}
+h2{
+	border-style: outset;
+	border-width: 8px;
+	border-color: #A9A9A9;
+}
+p{
+	border-style: double;
+	border-width: 4px;
+	
+}

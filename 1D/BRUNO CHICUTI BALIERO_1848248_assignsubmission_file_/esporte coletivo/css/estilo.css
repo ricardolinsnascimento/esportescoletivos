@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    font-size: 20px;
+    background-color: #F4A460;
+}
+h1{
+	text-align: center;
+}
+p{
+	text-align: center;
+	font-family:Arial, Helvetica, sans-serif;
+}
+h2{
+	text-align: center;
+}
+a{
+	color: black;
+}
+li{
+	list-style-type: none;
+}
+footer{
+	background-color: black;
+	color:white;
+}

@@ -1,0 +1,107 @@
+body{
+	background-image: url(../img/ff.webp);
+	background-attachment: fixed;
+	background-size: cover;
+	text-align: center;
+}
+#body2{
+	text-align: center;
+	background-image: url(../img/volei.png);
+	background-attachment: fixed;
+	background-size: cover;
+}
+#title{
+	color: yellow;
+	font-size: 44px;
+	font-family: sans-serif;
+}
+#criação{
+	font-size: 33px;
+	color: blue;
+}
+#disseminação{
+	font-size: 33px;
+	color: blue;
+}
+#mudanças{
+	font-size: 33px;
+	color: blue;
+}
+p{
+	font-size: 22px;
+	font-family: sans-serif;
+}
+h2{
+	font-size: 33px;
+	font-family: sans-serif;
+}
+#inicio{
+	font-size: 44px;
+	font-family: fantasy;
+}
+#body1{
+	text-align: center;
+	background-image: url(../img/ff.webp);
+	background-attachment: fixed;
+	background-size: cover;
+}
+li{
+	font-family: sans-serif;
+}
+.ul1{
+	background-color: yellow;
+	margin-left: 400px;
+	margin-right: 400px;
+	border-style: solid;
+	border-color: blue;
+}
+.ul2{
+	background-color: yellow;
+	margin-left: 300px;
+	margin-right: 300px;
+	border-style: solid;
+	border-color: blue;
+}
+a{
+	font-size: 20px;
+	color: white;
+}
+.links2{
+	color: black;
+}
+.inicio{
+	font-family: fantasy;
+	font-size: 50px;
+	color: blue;
+}
+#links1{
+	text-align: center;
+}
+#saque{
+	font-family: fantasy;
+	font-size: 33px;
+	color: #FFD700;	
+}
+a{
+	color: black;
+}
+#ataque{
+	font-family: fantasy;
+	font-size: 33px;
+	color: #FFD700;	
+}
+#bloqueio{
+	font-family: fantasy;
+	font-size: 33px;
+	color: #FFD700;	
+}
+#levantamento{
+	font-family: fantasy;
+	font-size: 33px;
+	color: #FFD700;	
+}
+#recepção{
+	font-family: fantasy;
+	font-size: 33px;
+	color: #FFD700;
+}

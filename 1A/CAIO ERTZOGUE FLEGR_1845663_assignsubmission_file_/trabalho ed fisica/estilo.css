@@ -1,0 +1,40 @@
+body{
+	margin: 25px;
+	font-size: 20px;
+	background-image: url(img/basquete5.jpg);
+	background-size: cover; /*cover*/
+}
+h1{
+	text-align: center;
+	font-size: 30px;
+	color: #FF4500; /*orangered*/
+}
+h2{
+	font-size: 25px;
+	color: #FF4500; /*orangered*/
+}
+footer{
+	padding: 20px;
+	padding-left: 500px;
+	margin-top: 20px;
+	color: white;
+}
+a{
+	color: #FF8C00;
+}
+img{
+	margin-left: 150px;
+}
+p{
+	color: #FF8C00;
+}
+ul{
+	color: #FF8C00;
+}
+.pfooter{
+	border: none;
+}
+figcaption{
+	margin-left: 435px;
+	color: #FF8C00;
+}

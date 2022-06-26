@@ -1,0 +1,30 @@
+h1{
+	background-color: rgb(244,164,96);
+	border-style: solid;
+	border-color: rgb(255,218,185);
+	border-width: 7px;
+}
+body{
+	text-align: center;
+	background-color: rgb(255,218,185);
+	background-image: url(../img/fundo6.png);
+	font-family: helvetica, sans-serif;
+}
+footer{
+	background-color: rgb(200,200,200);
+	padding-top: 10px;
+	padding-bottom: 20px;
+	margin-top: 20px;
+}
+#destaque{
+	background-color: rgb(200,200,200);
+	font-size: 20px;
+}
+.historia{
+	background-color: rgb(255,155,200);
+	font-size: 20px;
+}
+#borda{
+	border-style: solid;
+	border-width: 1px;
+}

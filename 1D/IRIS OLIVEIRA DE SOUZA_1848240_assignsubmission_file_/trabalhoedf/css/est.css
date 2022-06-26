@@ -1,0 +1,39 @@
+body{
+background-color: black ; 
+color: white ;
+text-align: center;
+border-color : white;
+border-style:dashed; 
+border-width: 10px;
+
+}
+
+h1{
+margin-left:350px;
+margin-right:350px;
+font-family: ITC Zapf Chancery, serif;
+}
+
+h2{
+
+margin-left:230px;
+margin-right:230px;
+font-size: 20px;
+}
+
+#nome{
+ font-family: Ink Free, sans-serif;
+}
+
+li{
+	list-style-type: none;
+
+}
+
+img{
+
+border-color : white;
+border-style: double;
+border-width: 10px;
+
+}

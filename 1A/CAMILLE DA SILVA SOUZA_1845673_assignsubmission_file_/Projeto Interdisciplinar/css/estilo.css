@@ -1,0 +1,32 @@
+h1{
+	font-family: "Georgia", serif;
+	background-color: #F3F781;
+	padding: 10px;
+}
+h2{
+	font-family: "Georgia", serif;
+	background-color: #2E9AFE;
+}
+h3{
+	font-family: "Georgia", serif;
+	background-color: #BDBDBD;
+}
+body{
+	font-family: "Trebuchet MS", sans-serif;
+	margin-top: 50px;
+	margin-bottom: 80px;
+	margin-right: 100px;
+	margin-left: 100px;
+}
+figure{
+	text-align: center;
+}
+figcaption{
+	color: #2E9AFE;
+}
+footer{
+	font-family: "Georgia", serif;
+	padding: 30px;
+	text-align: center;
+	background-color: #BDBDBD; 
+}

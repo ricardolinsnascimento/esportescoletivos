@@ -1,0 +1,33 @@
+h1{
+	text-align: center;
+	background-color: white;
+	color: black;
+	margin-right:450px;
+	margin-left:450px;
+}
+body{
+	background-image:url(../img/fundo.png);
+	background-size:cover;
+	color: white;
+	margin-left:50px;
+	margin-right:50px;
+	text-align: center;	
+}
+#ab{
+	border-color:red;
+	border-style:solid;
+}
+a{
+	border-color:white;
+	border-style:solid;
+	color:white;
+}
+footer{
+	padding:10px;
+	background-color:blue;
+	margin-right:400px;
+	margin-left:400px;
+}
+
+
+

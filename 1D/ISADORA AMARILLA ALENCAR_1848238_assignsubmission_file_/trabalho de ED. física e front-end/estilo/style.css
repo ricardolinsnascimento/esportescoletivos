@@ -1,0 +1,24 @@
+h1{	color: white;
+	background-image: url(../image/fundoletra1.jpg) ;
+}
+body{background-image: url(../image/fundo1.jpg);
+	border-style: solid;
+	border-color: black;
+	border-width: 30px;
+	margin: 10px 20px 10px 20px;
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+}
+p{	color: black;
+	font-size: 25px ;
+	font-family: sans-serif;
+
+}
+#texto{
+}
+a:visited{
+ color: black;
+}
+li{
+	list-style-type: none;
+}

@@ -1,0 +1,30 @@
+body{
+	margin: 30px 140px 200px 200px;  
+	background-color:rgb(240,230,140);
+	
+}
+h1{
+	color:rgb(); 
+	font-family:cursive;
+}
+h2{
+	color:rgb();
+	font-family:monospace;
+}
+h3{font-family:Arial;
+}
+
+p{
+	color:rgb();
+	font-family:Comic Sans;
+}
+
+li{
+	color:rgb();
+	font-family: New Century Schoolbook;
+}
+
+footer{
+	background-color: rgb();
+	margin:10px,10px,20px,20px;
+}

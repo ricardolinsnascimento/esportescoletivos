@@ -1,0 +1,35 @@
+body{
+	background-image:url(../img/fundo2.png);
+	background-attachment: fixed;
+    background-size: cover;
+	color: white;
+	font-family: sans-serif;
+}
+
+h2{
+	border: 10px;
+	background-color: black;
+}
+
+#hist{
+	width: 93px;
+}
+
+#brazil{
+	width: 210px;
+}
+
+#link{
+	width: 60px;
+	border: 5px;
+	background-color: black;
+}
+
+a{
+	color: lightblue;
+}
+
+.homem,.homem2,.homem3{
+		display: inline-block;
+		text-align: center;
+}

@@ -1,0 +1,47 @@
+body{
+	text-align: center;
+	margin-left: 90px;
+	margin-top: 50px;
+	margin-right: 80px;
+	margin-bottom: 80px;
+	background-image: url(../img/Fundo.jpg);
+	border-style: solid;
+	border-color:#000000;
+	border-width:3px ;
+	font-family: Times, "Times New Roman", Georgia, serif;
+	background-size:contain;
+}
+
+h1 {
+	color:#FFFAFA;
+	
+}
+h2 {	
+	color: #FFFAFA;
+}
+h3{
+	color:#FFFAFA;
+}
+ul {   
+	color:#FFFAFA;
+	
+}
+li {
+	color:#FFFAFA;
+	list-style-type: none;
+	display: list-item;
+
+
+}
+p {
+	color:#FFFAFA;
+}
+h4{
+	color:#FFFAFA;
+}
+footer {
+	background-color:#FEAE3A;
+}
+a {
+	background-color:#FEAE3A;
+}

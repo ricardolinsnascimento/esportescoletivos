@@ -1,0 +1,42 @@
+body{
+	text-align: center;
+	margin-right: 20px;
+	font-size: 20px;
+}
+#foto{
+	height: 500px;
+	margin: none;
+}
+#imagem{
+	height: 270px;
+}
+h1{
+	font-family: Script MT;
+	color: #00008B;
+	background-color: #FEF944;
+}
+h2{
+	font-family: Script MT;
+	color: #00008B;
+	background-color: #FEF944;
+}
+h3{
+	font-family: Franklin Gothic Medium; 
+	color: #00008B;
+	background-color: #FEF944;
+}
+footer{
+	background-color: #FEF944;
+	height: 40px;
+}
+#texto{
+	margin-left: 200px;
+	margin-right: 200px;
+}
+a{
+	color:  #00008B;
+}
+p{
+	margin-left: 200px;
+	margin-right: 200px;
+}

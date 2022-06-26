@@ -1,0 +1,23 @@
+body{
+	background-image: url(../img/fundoazul.jpg);
+	background-size: cover;
+	font-family: sans-serif;
+	text-align: 	center;	
+	color: rgb(255, 255, 255);	
+}
+h2{
+    color: rgb(255,255,255);
+}
+ul{
+	padding-right: 	25px
+}
+footer{
+	background-color: 	rgb(18,10,143);
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+
+}
+a{
+	color: rgb(0,191,255);
+}

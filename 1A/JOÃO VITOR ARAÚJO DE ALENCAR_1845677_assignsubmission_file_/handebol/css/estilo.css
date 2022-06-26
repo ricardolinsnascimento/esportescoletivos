@@ -1,0 +1,74 @@
+body{
+	background-image: url(../img/handebol2.jpg);
+	margin: 50px 25px 25px 50px;
+}
+h1{
+	color: #0000CD;
+	font-family: 'Times New Roman', Times, serif;
+	margin:10px 600px 10px 600px;
+	font-size: 50px;
+	padding-left: 65px;
+}
+h2{
+	color: #FFA500;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 25px;
+}
+h3{
+	color: #008000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+}
+h4{
+	color: #32CD32;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+
+}
+.informações{
+	margin-top: 5px;
+	color: #0000FF;
+}
+.cor{
+	color: #0000FF;
+}
+#técnicas{
+	margin: 25px 25px 25px 300px;
+}
+#links{
+	border-color: #FF0000;
+	border-style: dashed;
+	border-width: 4px;
+}
+.inicio{
+	color: #D2691E;
+}
+.indice{
+	color: #D2691E;
+}
+.posições{
+	color: #008000;
+	font-size: 30px;
+	font-family: 'Times New Roman', Times, serif;
+}
+#posiçõeshandebol{
+	color: #32CD32;
+}
+figcaption{
+	color: 	#FF4500;
+}
+p{
+	color: #0000FF;
+	font-family: Arial, Helvetica, sans-serif;
+}
+li{
+	color: 	#0000FF;
+	font-family: Arial, Helvetica, sans-serif;
+}
+a{
+	color: #0000FF;
+}
+footer{
+	text-align: center;
+	padding-top: 10px;
+}

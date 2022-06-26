@@ -1,0 +1,47 @@
+body{
+	margin-left:50px;
+	background-color: #D7DBDD;
+
+color:black;
+text-align:center;
+
+	
+}
+#titulo{
+	border-color:grey;
+	border-style:solid;
+
+	text-align:center;
+}
+#fts{
+	
+	border-style:solid;
+	border-color:grey;
+	text-align:center;
+}
+footer{
+	background-color:green;
+	border-style:solid;
+}
+a{
+	text-align:center;
+	color:red;
+}
+#fim{
+	text-align:center;
+}
+li{
+	list-style:none;
+}
+h1{
+	margin-left:700px;
+	margin-right:700px;
+	border-style:solid;
+}
+p{
+	margin-right:300px;
+	margin-left:300px;
+}
+
+
+

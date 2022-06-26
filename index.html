@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>		
+		<meta charset="utf-8"/>
+		<title>Projeto Esportes Coletivos</title>				
+		<link rel="stylesheet" type="text/css" href="css/estilo.css">
+
+		<!-- CSS only -->
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+
+		<!-- JavaScript Bundle with Popper -->
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+
+
+		<script>
+		
+
+			 function mostra(turma){
+			 	switch(turma){
+			 		case '1a':
+			 			
+				 		document.getElementById("T1A").style.display = "block";
+				 		document.getElementById("T1B").style.display = "none";
+				 		document.getElementById("T1C").style.display = "none";
+				 		document.getElementById("T1D").style.display = "none";				 		
+			 			break;
+			 		case '1b':
+			 			
+			 			document.getElementById("T1A").style.display = "none";
+				 		document.getElementById("T1B").style.display = "block";
+				 		document.getElementById("T1C").style.display = "none";
+				 		document.getElementById("T1D").style.display = "none";				 		
+			 		break;
+			 		case '1c':
+			 			document.getElementById("T1A").style.display = "none";
+				 		document.getElementById("T1B").style.display = "none";
+				 		document.getElementById("T1C").style.display = "block";
+				 		document.getElementById("T1D").style.display = "none";
+				 		
+
+			 		break;
+			 		case '1d':
+			 			document.getElementById("T1A").style.display = "none";
+				 		document.getElementById("T1B").style.display = "none";
+				 		document.getElementById("T1C").style.display = "none";
+				 		document.getElementById("T1D").style.display = "block";
+				
+
+			 		break;
+			 		case 'TE':
+			 			document.getElementById("T1A").style.display = "none";
+				 		document.getElementById("T1B").style.display = "none";
+				 		document.getElementById("T1C").style.display = "none";
+				 		document.getElementById("T1D").style.display = "none";
+				 	
+
+			 		break;
+			 	}
+			 }
+
+		</script>
+	</head>
+	<body>
+
+		<div class="container topo">
+		
+			<div class="row titulo  text-white ">
+				<div class="col-12">
+					<h1 class="display-4  "> <strong> Projeto Esportes Coletivos </strong> </h1>
+					
+				</div>			
+			</div>
+			
+
+			
+			<div class="row">
+				
+				
+				<div class="botoes">
+					<div class="col-12">
+						<button onclick="mostra('1a')" type = "button" class="btn btn-warning">1A</button>
+						<button onclick="mostra('1b')" type = "button" class="btn btn-warning">1B</button>
+						<button onclick="mostra('1c')" type = "button" class="btn btn-warning">1C</button>
+						<button onclick="mostra('1d')" type = "button" class="btn btn-warning">1D</button>
+						
+					</div>
+
+					
+				</div>
+
+				
+				
+			</div>
+
+		
+			<div class="row">
+				<div id="T1A" style="display='none'">
+					<div class="col-11">
+						<div  class="card  border-primary lista">
+							<div class="card-header">1A - Front-End 1 (prof. Ricardo), Educação Física 1 (Prof. Jack) e Ferramentas de Desenho (prof. Flávia) </div>
+							<div class="card-body">
+								
+								<ul>
+									<li> <a class="text-success" href="1A\ANNA LETHYCIA PORTO DOS SANTOS_1845704_assignsubmission_file_\volei/index.html" target="_blank"> Ana Júlia e Anna Lethycia - Voleibol  </a> </li>
+
+									<li> <a class="text-success" href="1A\CAIO ERTZOGUE FLEGR_1845663_assignsubmission_file_\trabalho ed fisica/index.html" target="_blank"> Caio Flegr e Pedro Israel - Basquete  </a> </li>
+
+									<li> <a class="text-success" href="1A\CAMILLE DA SILVA SOUZA_1845673_assignsubmission_file_\Projeto Interdisciplinar/index.html" target="_blank">Aline Mandacari e Camille Souza - Voleibol  </a> </li>
+
+									<li> <a class="text-success" href="1A\CARLOS ALBERTO ALMEIDA NETO_1845676_assignsubmission_file_\carlos e paulo 3/index.html" target="_blank">Carlos Alberto e Paulo José  - Basquete  </a> </li>
+
+									<li> <a class="text-success" href="1A\CLAUTER DE ARAUJO BARROSO_1845680_assignsubmission_file_\Esportes Coletivos/index.html" target="_blank"> Clauter Barroso e João Victor Brito - Voleibol  </a> </li>
+
+									<li> <a class="text-success" href="1A\GEOVANA MANOELI TERLESKI DATSCH_1845662_assignsubmission_file_\Esportes Coletivos/index.html" target="_blank">Geovana Manoeli - Handebol </a> </li>
+
+									<li> <a class="text-success" href="1A\GUSTAVO MACHADO SOARES_1845674_assignsubmission_file_\Gustavo/index.html" target="_blank"> Gustavo Machado Soares - Basquete </a> </li>
+
+									<li> <a class="text-success" href="1A\HELOISA FERRAZ NEVES_1845669_assignsubmission_file_\trabalho inter/index.html" target="_blank"> Heloisa Ferraz e Rebeca Felix - Basquete </a> </li>
+
+									<li> <a class="text-success" href="1A\HUMBERTO JOSÉ SEPA DE MATOS NETO_1845695_assignsubmission_file_\trabalho front-end- Humberto  e  Kalil- 1A\basquete/index.html" target="_blank"> Humberto Neto e Kalil Henrique - Basquete </a> </li>
+
+									<li> <a class="text-success" href="1A\JOAO VICTOR ROCHA URBANO_1845689_assignsubmission_file_\Trabalho Interdisciplinar - Front End 1/index.html" target="_blank"> João Victor Rocha Urbano e Luiz Gustavo Neckel - Voleibol </a> </li>
+
+									<li> <a class="text-success" href="1A\JOÃO BLAN DE LIMA NETO_1845690_assignsubmission_file_\trabalho esporte/volei.html" target="_blank"> João Blan e Diully Mayer  - Voleibol </a> </li>
+
+									<li> <a class="text-success" href="1A\JOÃO VITOR ALVES VALERIO_1845664_assignsubmission_file_\Site - Esportes Coletivos/index.html" target="_blank"> João Valerio e Juliana Santos  - Voleibol </a> </li>
+
+									<li> <a class="text-success" href="1A\JOÃO VITOR ARAÚJO DE ALENCAR_1845677_assignsubmission_file_\handebol/index.html" target="_blank"> João Vitor Araújo e Maria Eduarda  - Handebol </a> </li>
+
+									<li> <a class="text-success" href="1A\JUCIELY PEREIRA ESPINDOLA_1845698_assignsubmission_file_\futsal front-end/index.html" target="_blank"> Juciely Pereira Espindola   - Futsal </a> </li>
+
+									<li> <a class="text-success" href="1A\KEMILLY DO NASCIMENTO COSTA_1845665_assignsubmission_file_\interdiciplinar/esportessite.html" target="_blank"> Kemilly e Vitória   - Handebol </a> </li>
+
+									<li> <a class="text-success" href="1A\MARINA SIGNOR TIRLONI_1845687_assignsubmission_file_\esportes coletivos/index.html" target="_blank"> Marina Signor Tirloni - Voleibol </a> </li>
+
+									<li> <a class="text-success" href="1A\MILENA ALISSA MARQUES DA SILVA_1845685_assignsubmission_file_\Projeto Final/index.html" target="_blank"> Milena Alissa e Evelyn Zagolino - Voleibol </a> </li>
+									
+								</ul>
+							</div>
+
+						</div>
+					</div>
+				</div>
+
+
+				<div id="T1B" >
+					<div class="col-11">
+						<div  class="card  border-primary lista">
+							<div class="card-header">1B - Front-End 1 (prof. Ricardo), Educação Física 1 (prof. Jack) e Inglês 1 (prof. Letícia) </div>
+							<div class="card-body"> 
+								<ul>
+
+									<li> <a class="text-success" href="1B\AGATHA HELENA PEREIRA RIO_1853013_assignsubmission_file_\Tindex.html/index.html" target="_blank"> Agatha Helena e Isabely Dronov - Ginástica Rítmica  </a> </li>
+
+									<li> <a class="text-success" href="1B\ANA LUIZA LACERDA FELICIANO_1853005_assignsubmission_file_/index.html" target="_blank"> Ana Luiza e Mariana - Futevôlei  </a> </li>
+
+									<li> <a class="text-success" href="1B\ARTHUR HIDALGO MORAIS PAZ_1853006_assignsubmission_file_\trabalho front end/index.html" target="_blank">Arthur Hidalgo e Carlos Henrique - Futsal  </a> </li>
+
+									<li> <a class="text-success" href="1B\GIOVANNA SOUZA VASCONCELOS_1853004_assignsubmission_file_\trabalho 50 materias/index.html" target="_blank">Beatriz Lorena e Giovanna Souza - Voleibol  </a> </li>
+
+									<li> <a class="text-success" href="1B\IZABELY CONRAD PEREIRA_1853016_assignsubmission_file_\trabalho conjunto/index.html" target="_blank">Izabely Conrad e Lais Nicole - Rugby  </a> </li>
+
+									<li> <a class="text-success" href="1B\JOÃO NATHAN ALVES DE ANDRADE_1853020_assignsubmission_file_\Volei ---LiviaA e JoaoN 1B/index.html" target="_blank">João Nathan e Livia Almeida - Voleibol  </a> </li>
+
+									<li> <a class="text-success" href="1B\JOÃO VITOR BALLENSOELA RAMOS_1853027_assignsubmission_file_\Futsal/index.html" target="_blank"> João Vitor B Ramos e Arthur Guilherme - Futsal  </a> </li>
+
+									<li> <a class="text-success" href="1B\JULIA GOMES DA SILVA_1853032_assignsubmission_file_\trabalho de front-end/index.html" target="_blank"> Julia Gomes da Silva - Rugby  </a> </li>
+
+									<li> <a class="text-success" href="1B\LEONARDO FAGUNDES SILVA_1853024_assignsubmission_file_\Trabalhooo/index.html" target="_blank"> Isadora Nayara e Leonardo Fangundes - Voleibol  </a> </li>
+
+									<li> <a class="text-success" href="1B\LIVIA DE OLIVEIRA BORGES_1853023_assignsubmission_file_\trabalho volei de praia/index.html" target="_blank"> Maria fernanda Bronel Gimenes e Livia Oliveira Borges - Vôlei de Praia  </a> </li>
+
+									<li> <a class="text-success" href="1B\LUIZ HENRIQUE MARQUES GONÇALVES_1853012_assignsubmission_file_\Esportes coletivos/index.html" target="_blank"> Luiz e Gabriel - Basquetebol  </a> </li>
+
+									<li> <a class="text-success" href="1B\LÍVIA CATELÃ DA SILVA_1853034_assignsubmission_file_\Futebol Americano\interdisciplinar/index.html" target="_blank"> Amanda Justino e Livia Catelã - Futebol Americano  </a> </li>
+
+									<li> <a class="text-success" href="1B\MARIA CLARA SOUZA DOS REIS_1853040_assignsubmission_file_\Esportes Coletivos/index.html" target="_blank"> Maria Clara Reis e Sofia Souza - Futevôlei </a> </li>
+
+									<li> <a class="text-success" href="1B\MARIA EDUARDA ALVES MORAES_1853036_assignsubmission_file_\TRABALHO SITE\trabalhorugby/index.html" target="_blank">  Gabrieli Gomes e Maria Eduarda Moraes- Rugby </a> </li>
+
+									<li> <a class="text-success" href="1B\MARIA LUÍZA DE BARROS CORIN_1853028_assignsubmission_file_\trabalho/index.html" target="_blank">  Thifany e Maria Luíza - Handebol </a> </li>
+									
+									<li> <a class="text-success" href="1B\MILLENY CAMINHA XAVIER_1853021_assignsubmission_file_\Esporte - site/index.html" target="_blank">  Milleny Caminha e Laura Raquel  - Voleibol </a> </li>
+									
+								</ul>
+							</div>
+
+						</div>
+					</div>
+				</div>
+
+				<div id="T1C" >
+					<div class="col-11">
+						<div  class="card  border-primary lista">
+							<div class="card-header">1C Front-End 1 (prof. Ricardo), Educação Física 1 (prof. Jack) e Ferramentas de Desenho (prof. Fabrícia)</div>
+							<div class="card-body">
+							
+								<ul>
+
+									<li> <a class="text-success" href="1C\ALISON PERES CONTI_1855608_assignsubmission_file_\abcalison\alison peres1/index.html" target="_blank">  Alison Peres Conti - Handebol </a> </li>
+
+									<li> <a class="text-success" href="1C\BRUNA LUIZA PRESTES MENDES_1855585_assignsubmission_file_\Trabalho 2 front-end/index.html" target="_blank">  Bruna Luiza Prestes Mendes e Ana Laura Tiago Da Maia Roman - Voleibol </a> </li>
+
+									<li> <a class="text-success" href="1C\CAMILLY FERREIRA RAMOS_1855583_assignsubmission_file_\sitev (1)\camily/index.html" target="_blank"> Filippe Ribeiro e Camilly Ferreira - Voleibol </a> </li>
+
+									<li> <a class="text-success" href="1C\DANIELA BAZAN PAVAO_1855592_assignsubmission_file_\voleibol frond end/index.html" target="_blank">  Daniela Bazan Pavâo e Ana Clara Marques Grangeiro  - Voleibol</a> </li>
+
+									<li> <a class="text-success" href="1C\EMANUELLI MICHEL BRAUCKS_1855610_assignsubmission_file_\futevolei/index.html" target="_blank">  Emanuelli M. Braucks e Laysla Vitória - Futevôlei </a> </li>
+
+									<li> <a class="text-success" href="1C\FELIPE MACHADO RODRIGUES_1855603_assignsubmission_file_\index.html/index.html" target="_blank">  Felipe Machado Rodrigues e Kaua Vinicius - Futsal </a> </li>
+
+									<li> <a class="text-success" href="1C\GUILHERME OLIVEIRA DE SOUZA_1855593_assignsubmission_file_\trabalho de front end futsal/index.html" target="_blank">  Guilherme Oliveira de Souza  e Valdielison Murakami - Futsal </a> </li>
+
+									<li> <a class="text-success" href="1C\GUSTAVO ALMEIDA DE OLIVEIRA_1855613_assignsubmission_file_\esportes/index.html" target="_blank">  Gustavo Almeida E Gabriel - Voleibol </a> </li>
+
+									<li> <a class="text-success" href="1C\IGOR SANTOS CARPES_1855599_assignsubmission_file_\Esportes/index.html" target="_blank">  Igor Carpes - Voleibol </a> </li>
+
+									<li> <a class="text-success" href="1C\ISABELA FERREIRA DE MELO_1855594_assignsubmission_file_\trabalho frond e EF/index.html" target="_blank">  Isabela Ferreira de melo e Renata Zaurisio da Silva - Voleibol </a> </li>
+
+									<li> <a class="text-success" href="1C\JOÃO VITOR FERRREIRA DA SILVA_1855596_assignsubmission_file_\index.html/index.html" target="_blank">  Evelyn Vitória e João Vitor - Handebol </a> </li>
+
+									<li> <a class="text-success" href="1C\LETÍCIA KELLY ASSUNÇÃO LIMA DE NAZARÉ_1855607_assignsubmission_file_\técnicas do handebol/index.html" target="_blank">  Letícia e Fernanda - Handebol </a> </li>
+
+									<li> <a class="text-success" href="1C\LIVIA MELO MOURA_1855576_assignsubmission_file_\Livia M. e joao P/home/index.html" target="_blank">  Livia Melo e João Pedro - Tênis de Mesa </a> </li>
+
+									<li> <a class="text-success" href="1C\LUAN GABRIEL DE FREITAS AZEVEDO_1855597_assignsubmission_file_\trabalho de educação fisica\trabalho/index.html" target="_blank">  Luan e Vinicius - Futsal  </a> </li>
+
+									<li> <a class="text-success" href="1C\LUCAS NEVES FLUHR_1855595_assignsubmission_file_\Futevôlei/index.html" target="_blank">  Lucas Neves Fluhr e Laura Ferreira Maximo Suypene  - Futevôlei </a> </li>
+
+								
+
+									<li> <a class="text-success" href="1C\LUIS GUSTAVO FERREIRA GONCALVES ARAUJO_1855587_assignsubmission_file_\Trabalho de front-end/index.html" target="_blank">  Luis Gustavo Ferreira  - Futsal </a> </li>
+
+									<li> <a class="text-success" href="1C\MARIA EDUARDA SILVA OLIVERIA_1855612_assignsubmission_file_\volei/index.html" target="_blank">  Maria Eduarda da Silva Oliveira  - Voleibol </a> </li>
+
+									<li> <a class="text-success" href="1C\MIQUÉIAS LEÃO_1855577_assignsubmission_file_\Ed. Física - Copia/index.html" target="_blank">  Nauan e Miqueias  - Futsal </a> </li>
+
+									<li> <a class="text-success" href="1C\PEDRO HENRIQUE FERNANDES SGARAVATTI_1855600_assignsubmission_file_\Trabalho FrontEnd - Futevôlei/index.html" target="_blank">  Maria Vitória De Almeida e Pedro Henrique Fernandes Sgaravatti  - Futevôlei </a> </li>
+
+									<li> <a class="text-success" href="1C\RICARDO ESTEVAN DE MENEZES GONÇALVES_1855618_assignsubmission_file_\trabalho ed fisica\trabalho/index.html" target="_blank">  Ricardo Estevan - Voleibol </a> </li>
+
+									<li> <a class="text-success" href="1C\SILAS DE SOUZA DA SILVA JUNIOR_1855590_assignsubmission_file_\front-end silas/index.html" target="_blank"> Silas Junior - Futsal </a> </li>
+
+									<li> <a class="text-success" href="1C\VITOR EDUARDO KOOP_1855586_assignsubmission_file_\trabalho2/index.html" target="_blank"> Vitor Koop - Voleibol </a> </li>
+									
+								</ul>
+							</div>
+
+						</div>
+					</div>
+				</div>
+
+				<div id="T1D">
+					<div class="col-11">
+						<div  class="card  border-primary lista">
+							<div class="card-header">1D Front-End 1 (prof. Ricardo), Educação Física 1 (prof. Jack) e Ferramentas de Desenho (prof. Fabrícia) </div>
+							<div class="card-body">
+								<ul>
+									<li> <a class="text-success" href="1D\BRUNO CHICUTI BALIERO_1848248_assignsubmission_file_\esporte coletivo/index.html" target="_blank"> Bruno Chicuti e Marcos Henrique - Futsal </a> </li>
+
+									<li> <a class="text-success" href="1D\GIOVANA LANZA MOREIRA_1848261_assignsubmission_file_\EdF/index.html" target="_blank"> Giovana Lanza e Thiago - Voleibol </a> </li>
+
+									<li> <a class="text-success" href="1D\GUSTAVO MATOS ARAÚJO_1848235_assignsubmission_file_\volei/index.html" target="_blank"> Gustavo Matos Araújo e Maria Eduarda Martinenghi - Voleibol </a> </li>
+
+									<li> <a class="text-success" href="1D\IRIS OLIVEIRA DE SOUZA_1848240_assignsubmission_file_\trabalhoedf/index.html" target="_blank"> Iris Oliveira e Evelyn - Voleibol </a> </li>
+
+									<li> <a class="text-success" href= "1D\ISABELLY ARTHMAN CHAGAS_1848277_assignsubmission_file_\front end e educação fisica/index.html" target="_blank"> Isabelly Arthman - Voleibol </a> </li>
+
+									<li> <a class="text-success" href= "1D\ISADORA AMARILLA ALENCAR_1848238_assignsubmission_file_\trabalho de ED. física e front-end/index.html" target="_blank"> Isadora A. Alencar e Laura Cardeal - Basquete </a> </li>
+
+									<li> <a class="text-success" href= "1D\JOAO PEDRO ORTIZ BORTOLON_1848245_assignsubmission_file_\Futsal/index.html" target="_blank"> Guilherme e João Pedro Ortiz - Futsal </a> </li>
+
+									<li> <a class="text-success" href= "1D\KAIO HENRIQUE LIMA ECKER_1848242_assignsubmission_file_\ESPORTE/index.html" target="_blank"> Kaio Henrique - Tênis de Mesa </a> </li>
+
+									<li> <a class="text-success" href= "1D\LETÍCIA COSTA MATOS_1848267_assignsubmission_file_\Volei/index.html" target="_blank"> Flávia Defendi e Letícia C. Matos - Voleibol </a> </li>
+
+									<li> <a class="text-success" href= "1D\LORENA KOLOCHE_1848269_assignsubmission_file_\trabalho edf/index.html" target="_blank"> Lorena Ferreira Koloche e Renata Mendes - Voleibol </a> </li>
+
+									<li> <a class="text-success" href= "1D\MARIA EDUARDA FIGUEIREDO ALVES_1848249_assignsubmission_file_\trabalho futebol/index.html" target="_blank"> Maria Eduarda Figueiredo Alves e Lucas Griep Garcia - Futebol </a> </li>
+
+									<li> <a class="text-success" href= "1D\MILLENY PEREIRA VIRISSIMO_1848268_assignsubmission_file_\ed site/index.html" target="_blank"> Milleny Pereira e Jheniffer Amanda - Basquete </a> </li>
+
+									<li> <a class="text-success" href= "1D\RENATA PEREIRA DE MATOS_1848255_assignsubmission_file_\basquete/index.html" target="_blank"> Renata Matos e Gustavo Sarruf - Basquete </a> </li>
+
+									<li> <a class="text-success" href= "1D\SARA DA CONCEIÇÃO DE PAULA_1848274_assignsubmission_file_\esportes/index.html" target="_blank"> Sara da Conceição e Luan Augusto - Voleibol </a> </li>
+
+
+									<li> <a class="text-success" href= "1D\SOFIA HELEN DOS SANTOS LIMA_1848229_assignsubmission_file_\basquete/index.html" target="_blank"> Sofia Helen- Basquete </a> </li>
+
+
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+				
+	</body>
+
+	<div class="container bg-secondary text-white rodape">
+		<div class="row">
+			<div class="col">
+				<footer>
+					<p id="textRodape"> Publicação do Trabalho Integrado 1º Semestre 2022 - IFMS Dourados - Prof. Ricardo Nascimento </p>
+				</footer>				
+			</div>
+		</div>
+		
+	</div>
+
+	
+	
+</html>

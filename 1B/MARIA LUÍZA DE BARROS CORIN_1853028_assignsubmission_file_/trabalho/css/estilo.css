@@ -1,0 +1,100 @@
+body{
+	background-color: #DCDCDC;
+	color: #2F4F4F;
+	font-family: sans-serif;
+	font-size: 20px;
+}
+a{
+	color:  #2F4F4F;
+}
+footer{
+	background-color: #2F4F4F;
+	margin-left: 1px;
+	color: #DCDCDC;
+	padding-top: 2px ; 
+    padding-right: 80px ;
+    padding-bottom: 2px ; 
+    padding-left: 80px ;
+    text-align: center;
+}
+.meio{      
+	text-align: center;
+	background-color: #2F4F4F;
+	color: #DCDCDC;
+	padding-top: 2px ; 
+    padding-right: 80px ;
+    padding-bottom: 2px ; 
+    padding-left: 80px ; 
+}	      
+h2{
+	margin-left: 50px;
+}
+.oque{
+	margin-left: 60px;
+}
+.texto{
+	margin-left: 70px;
+}
+#passes{
+	margin-left: 50px;
+}
+.tipos{
+	margin-left: 70px;
+	padding: 3px;	
+}
+ul{
+	border: solid;
+	border-color: #2F4F4F;
+	border-width: 5px;
+	margin: 45px;
+}
+#arremesso{
+	margin-left: 50px;
+}	
+#tipoarremesso{
+	margin-left: 60px;
+}
+#handeol{
+	padding-top: 2px ; 
+    padding-right: 80px ;
+    padding-bottom: 2px ; 
+    padding-left: 80px ;
+}
+#apoio{
+	margin-left: 50px;
+}
+#suspensao{
+	margin-left: 50px;
+}
+#queda{
+	margin-left: 50px;
+}
+#rolamento{
+	margin-left: 50px;
+}
+#drible{
+	margin-left: 50px;
+}
+#ritmo{
+	margin-left: 50px;
+}
+#duplo{
+	margin-left: 50px;
+}
+.texarre{
+	margin-left: 70px;
+}
+.arretex{
+	margin-left: 60px;
+}
+.descricao{
+	margin-left: 60px;
+}
+#english{
+	font-size: 30px;
+	margin-left: 50px;
+}
+#portuguese{
+	font-size: 30px;
+	margin-left: 50px;
+}

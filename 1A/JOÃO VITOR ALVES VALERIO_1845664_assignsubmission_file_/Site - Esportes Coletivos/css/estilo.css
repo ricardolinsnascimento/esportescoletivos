@@ -1,0 +1,39 @@
+/*
+  Curso: Técnico em Informática para Internet
+  Disciplina: Front-End 1
+  Professor: Ricardo Nascimento
+  Estudantes: João Valerio e Juliana Santos
+  Turma: 1ºA
+ */
+
+body{
+	background-color: #ADD8E6;
+	color: black;
+	margin-right: 76px;
+	margin-left: 113px;
+	margin-top: 113px;
+	margin-bottom: 76px;
+	font-family: serif;
+}
+
+h1{
+	text-align: center;
+}
+
+figure{
+		text-align: center;
+}
+
+figcaption{
+			opacity: 80%;
+}
+
+a{
+	color: #005570;
+}
+
+footer{
+		text-align: center;
+		font-size: small;
+		margin-top: 20px;
+}

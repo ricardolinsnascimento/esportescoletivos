@@ -1,0 +1,90 @@
+
+p {
+  font-family: Georgia, serif;
+  font-size: 18px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: justify;
+}
+
+h1{
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+li {
+  font-size: 18px;
+}
+
+.topnav {
+  background-color: rgba(70, 130, 180, 1.00);
+  overflow: hidden;
+  margin-top: -8px;
+  margin-left: -8px;
+  margin-right: -8px;
+}
+.topnav a {
+  float: left;
+  display: block;
+  color: rgba(255, 255, 255, 1.00);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  border-bottom: 3px solid transparent;
+}
+
+.topnav a:hover {
+  border-bottom: 3px solid rgba(75, 0, 130, 1.00);
+}
+
+.topnav a.active {
+  border-bottom: 3px solid rgba(75, 0, 130, 1.00);
+}
+
+div {
+  padding: 5px;
+}
+
+.img1 {
+  float: left;
+  padding-right: 15px;
+}
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+figcaption {
+  font-size: 13px;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 450px;
+  margin: auto;
+  text-align: center;
+  display: table-cell;
+    background-color: rgba(255, 247, 163, 1.00);
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+  text-align: center;
+}
+hr.dashed {
+  border-top: 3px dashed rgba(70, 130, 180, 1.00);
+}
+footer {
+  font-family: Georgia, serif;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 1.00);
+  text-align: center;
+  background-color: rgba(70, 130, 180, 1.00);
+  padding: 20px 0px;
+  margin: -8px -8px;
+}
