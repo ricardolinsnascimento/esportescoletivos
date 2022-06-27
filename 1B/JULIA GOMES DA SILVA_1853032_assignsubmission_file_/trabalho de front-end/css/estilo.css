@@ -10,10 +10,7 @@ p{
 	background-image:url(../img/fundo.jpg);
 	font-family: 'Anek Malayalam', sans-serif;
 }
-a{
-	margin-left:100px;
-	margin-right:100px;
-} 
+
 li{
 	list-style-type: none;
 }
