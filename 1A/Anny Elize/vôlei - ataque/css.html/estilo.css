@@ -1,0 +1,50 @@
+body{
+	border-style: solid;
+	color: #363636;
+	margin:20px;
+}
+h1{
+	text-align: center;
+	color: white;
+	padding: 25px 25px 25px 25px;
+}
+a{
+
+	font-family: sans-serif;
+}
+h2{
+	border-style: dotted;
+	text-align: center;
+	font-family: sans-serif;
+}
+.topnav{
+	background-color: #363636;
+	overflow: hidden;
+}
+.topnav a{
+	float: left;
+	color: #363636;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+.topnav a.active{
+	background-color: #363636;
+	color: white;
+}
+p{
+	text-align: center;
+	font-family: sans-serif;
+}
+footer{
+	text-align: center;
+	font-family: sans-serif;
+}
+figcaption{
+	text-align: center;
+}
+strong{
+	text-align: center;
+	font-family: sans-serif;
+}
